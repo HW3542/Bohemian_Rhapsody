@@ -15,11 +15,6 @@
 ## 🗓 프로젝트 기간
 2021년 7월 9일 ~ 2021년 7월 15일
 
-## 👥 개발 인원
-- 이용우 (Node.js) [팀장] @ [archepro84](https://github.com/archepro84)
-- 이해웅 (Node.js) @ [HW3542](https://github.com/HW3542)
-- 홍성훈 (React) @ [HseongH](https://github.com/HseongH)
-- 주재인 (React) @ [demian0721](https://github.com/demian0721)
 
 
 ## 🛠 기술스텍
